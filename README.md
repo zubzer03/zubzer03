@@ -1,16 +1,19 @@
 ### Hi there 👋
 
 <!--
-**zubzer03/zubzer03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bienvenido a Mi Proyecto
 
-Here are some ideas to get you started:
+Este es un proyecto increíble que hace tendra como funcion usar varios entornos. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Yo soy Gabito
+
+## Estado del Proyecto
+
+[![Estado del Proyecto](https://img.shields.io/badge/estado-en%20desarrollo-brightgreen)](https://github.com/tu_usuario/tu_proyecto)
+[![Licencia](https://img.shields.io/badge/licencia-MIT-blue)](LICENSE)
+
+¡Contribuciones son bienvenidas! Si tienes sugerencias, problemas o mejoras, por favor crea un "issue" o envía un "pull request".
+
+##Autor
+Zubzer03
 -->
